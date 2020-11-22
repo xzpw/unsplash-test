@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo-bank</string>
+    <string name="search">Search</string>
+    <string name="search_et">Search..</string>
+</resources>
